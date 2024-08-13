@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-no-different-displayname",
+  "name": "eslint-plugin-react-displayname",
   "version": "1.0.1",
   "description": "Always match the displayName with the component name",
   "main": "index.js",
