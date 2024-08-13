@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-react-displayname",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Always match the displayName with the component name",
   "main": "index.js",
   "scripts": {
