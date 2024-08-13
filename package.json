@@ -1,0 +1,24 @@
+{
+  "name": "eslint-plugin-no-different-displayname",
+  "version": "1.0.0",
+  "description": "Always match the displayName with the component name",
+  "main": "index.js",
+  "scripts": {
+    "test": "node no-different-displayname.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": ">=9.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.9.0"
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "react",
+    "displayname"
+  ]
+}
